@@ -9,7 +9,7 @@ html"<button onclick=present()> Presente </button>"
 
 # ╔═╡ a23a3914-e8f3-42ec-a176-76b6821733a8
 md"""
-# EMCAN01088 - MECÂNICA DOS SÓLIDOS I - Turma: 2020 (2021.2)
+# IGEM01088 - MECÂNICA DOS SÓLIDOS I - Turma: 2020 (2021.2)
 
 ## Plano da Disciplina
 
