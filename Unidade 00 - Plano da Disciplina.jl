@@ -62,13 +62,13 @@ md"""
 
 🕑 2. Ler os subitens e o material indicado nos links. Postar no Classroom resumo de até uma página do que estudou *(até DD/MM/AAAA)*;
 
-🕔 3. Seleção dos subtemas com justificativa para que o que será aprendendido e experienciado durante a unidade e cada estudante elabora os estudos dos subtemas (modelos, algoritmos, códigos, simulações e análises) *(até DD/MM/AAAA)*;
+🕔 3. Seleção dos subtemas com justificativa para o que será aprendendido e experienciado pelo grupo durante a unidade, cada estudante elabora os estudos dos subtemas (modelos, algoritmos, códigos, simulações, exemplos e análises) *(até DD/MM/AAAA)*;
 
-🕙 4. Apresentações do subtemas *(até DD/MM/AAAA)*;
+🕙 4. Apresentações (individuais e do grupo) *(até DD/MM/AAAA)*;
 
-🕑 5. Avaliações (sala ou extra sala) *(até DD/MM/AAAA)* e
+🕑 5. Avaliações (Via google forms) *(até DD/MM/AAAA)* e
 
-🕒 6. Feedback (sala) *(até DD/MM/AAAA)*.
+🕒 6. Feedback *(até DD/MM/AAAA)*.
 """
 
 # ╔═╡ be4fb5b9-3121-43a0-bfb8-45188637216e
@@ -161,7 +161,7 @@ Avaliações que serão consideradas:
 # ╟─e6e24892-e2b7-472f-9a5c-7d1cbe34eeb6
 # ╟─a23a3914-e8f3-42ec-a176-76b6821733a8
 # ╟─e72a7552-d117-4306-99c7-a3e7218adfaa
-# ╠═26d3ea71-ee35-47b4-b331-825ec7726002
+# ╟─26d3ea71-ee35-47b4-b331-825ec7726002
 # ╟─be4fb5b9-3121-43a0-bfb8-45188637216e
 # ╟─a602d726-3bdd-4d60-88a6-a2c2d2438c94
 # ╟─cd0d2e88-384f-472c-8d43-0813e0394695

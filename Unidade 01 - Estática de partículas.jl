@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.15.1
+# v0.16.0
 
 using Markdown
 using InteractiveUtils
@@ -52,7 +52,7 @@ md"""
 
 🕙 4. Apresentações do subtemas *(até 30/set/2021)*;
 
-🕑 5. Avaliações ($(html"<a href='https://docs.google.com/forms/d/e/1FAIpQLSep8IcQXjUs96Vm3bEEQ2LNs0vrvKq7ajYplkgNkUiMF8ksIQ/viewform?usp=sf_link' target='_blank'>Formulário Eletrônico no Google Forms (Acesse aqui)</a>")) *(até 01/out/2021)* e
+🕑 5. Avaliações *(até 01/out/2021)* e
 
 🕒 6. Feedback (sala) *(até 01/out/2021)*.
 """
