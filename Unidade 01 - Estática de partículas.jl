@@ -48,13 +48,13 @@ md"""
 
 🕑 2. Ler os subitens 2.1, à 2.11, e seus subsubitens. Postar no Classroom resumo de até uma página do que estudou *(até 24/set/2021)*;
 
-🕔 3. Seleção dos subtemas com justificativa para que o que será aprendendido e experienciado durante a unidade e cada estudante elabora os estudos dos subtemas (modelos, algoritmos, códigos, simulações e análises) *(até 24/09/2021)*;
+🕔 3. Seleção dos subtemas com justificativa para que o que será aprendendido e experienciado durante a unidade e cada estudante elabora os estudos dos subtemas (modelos, algoritmos, códigos, simulações e análises) *(até 01/09/2021)*;
 
-🕙 4. Apresentações do subtemas *(até 30/set/2021)*;
+🕙 4. Apresentações do subtemas *(até 07/set/2021)*;
 
-🕑 5. Avaliações *(até 01/out/2021)* e
+🕑 5. Avaliações *(até 08/out/2021)* e
 
-🕒 6. Feedback (sala) *(até 01/out/2021)*.
+🕒 6. Feedback (sala) *(até 08/out/2021)*.
 """
 
 # ╔═╡ Cell order:
