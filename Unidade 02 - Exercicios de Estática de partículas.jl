@@ -39,11 +39,11 @@ md"""
  
 - _Problemas de Estática de partículas em 2 e 3 dimensões._;
 
-🕑 2. Ler os subitens 2.12, à 2.15, e seus subsubitens. Postar no Classroom resumo de até uma página do que estudou *(até 08/out/2021)*;
+🕑 2. Ler os subitens 2.12, à 2.15, e seus subsubitens. Postar no Classroom resumo de até uma página do que estudou *(até 14/out/2021)*;
 
-🕔 3. Seleção de 4 problemas proposto no capítulo 2 do livro do Beer, com pelo menos dois problemas no espaço tridimensional. *(até 08/out/2021)*;
+🕔 3. Seleção de 4 problemas proposto no capítulo 2 do livro do Beer, com pelo menos dois problemas no espaço tridimensional. *(até 14/out/2021)*;
 
-🕙 4. Apresentações dos problemas resolvidos subtemas *(até 14/out/2021)*;
+🕙 4. Apresentações dos problemas resolvidos subtemas *(até 15/out/2021)*;
 
 🕑 5. Avaliações ($(html"<a href='https://docs.google.com/forms/d/e/1FAIpQLSep8IcQXjUs96Vm3bEEQ2LNs0vrvKq7ajYplkgNkUiMF8ksIQ/viewform?usp=sf_link' target='_blank'>Formulário Eletrônico no Google Forms (Acesse aqui)</a>")) *(até 15/out/2021)* e
 
