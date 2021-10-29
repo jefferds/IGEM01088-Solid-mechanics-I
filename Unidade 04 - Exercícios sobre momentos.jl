@@ -39,17 +39,17 @@ md"""
  
 - _Exercícios relativos Corpos rígidos e sistemas equivalentes de força._;
 
-🕔 3. Seleção um exercício para cada membro do grupo dos tópicos abaixo no capitulo 3 do Beer para apresentação. Entregar no clasroom os arquivos da solução dos exercícios (slides, julia, pluto, figuras, etc.) *(até 04/nov/2021)*;:
+🕔 2. Seleção um exercício para cada membro do grupo dos tópicos abaixo no capitulo 3 do Beer para apresentação. Entregar no clasroom os arquivos da solução dos exercícios (slides, julia, pluto, figuras, etc.) *(até 04/nov/2021)*;:
 
-2. 3.11 - Momento de uma força em relação a um dado eixo
-5. 3.17 - Redução de um sistema de forças a uma força e um binário
-7. 3.21 - Redução de um sistema de forças a um torsor
+1. 3.11 - Momento de uma força em relação a um dado eixo;
+2. 3.17 - Redução de um sistema de forças a uma força e um binário e
+3. 3.21 - Redução de um sistema de forças a um torsor.
 
-🕙 4. Apresentações dos temas *(até 04/nov/2021)*;
+🕙 3. Apresentações dos temas *(até 04/nov/2021)*;
 
-🕑 5. Avaliações *(até 05/nov/2021)* e
+🕑 4. Avaliações *(até 05/nov/2021)* e
 
-🕒 6. Feedback (sala) *(até 05/nov/2021)*.
+🕒 5. Feedback (sala) *(até 05/nov/2021)*.
 """
 
 # ╔═╡ Cell order:
