@@ -41,7 +41,7 @@ md"""
 
 🕔 2. Estudar dos capitulos 7, seções 7.1 a 7.6, do Beer, selecionar um subtema e cada membro apresentar um exercicio do subtema apresentado. Fazer a apresentação do subtema e da solução dos exercícios. *(02/dez/2021 e 03/dez/2021)*;
 
-🕙 3. Apresentações os subtemas e a solução dos exercício *(18/nov/2021 e 19/nov/2021)*;
+🕙 3. Apresentações os subtemas e a solução dos exercício *(02/dez/2021 e 03/dez/2021)*;
 
 🕑 4. Avaliações *(até 09/dez/2021)* e
 
