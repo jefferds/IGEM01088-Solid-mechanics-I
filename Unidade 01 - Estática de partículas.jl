@@ -42,22 +42,42 @@ md"""
 md"""
 ### Roteiro
 
-🕐 1. Indicação do tema da atividade a ser executada por cada grupo *(até 23/set/2021)*,
+🕐 1. Indicação do tema da atividade a ser executada por cada grupo *(até 12/jul/2022)*,
  
 - _Estática dos pontos materiais._;
+- _Cada membro do grupo apresenta a solução de um exercício da lista de exercícios propostos do livro 2.21 a 2.67_.
 
-🕑 2. Ler os subitens 2.1, à 2.11, e seus subsubitens. Postar no Classroom resumo de até uma página do que estudou *(até 24/set/2021)*;
+**Fonte:**  3. BEER, Ferdinand P. _**Mecânica vetorial para engenheiros : estática**_., 9ª Edição
 
-🕔 3. Seleção dos subtemas com justificativa para que o que será aprendendido e experienciado durante a unidade e cada estudante elabora os estudos dos subtemas (modelos, algoritmos, códigos, simulações e análises) *(até 01/09/2021)*;
+🕑 2. Ler os subitens 2.1, à 2.11, e seus subsubitens. Postar no Classroom resumo de até uma página do que estudou *(até 15/julho/2022)*;
 
-🕙 4. Apresentações do subtemas *(até 07/set/2021)*;
+🕔 3. Seleção dos exercícios que serão resolvidos *(até 15/09/2022)*;
 
-🕑 5. Avaliações *(até 08/out/2021)* e
+🕙 4. Apresentações das soluções *(até 19/julho/2022)*;
 
-🕒 6. Feedback (sala) *(até 08/out/2021)*.
+🕑 5. Avaliações *(até 21/jul/2022)* e
+
+🕒 6. Feedback (sala) *(até 22/julho/2022)*.
+"""
+
+# ╔═╡ 00000000-0000-0000-0000-000000000001
+PLUTO_PROJECT_TOML_CONTENTS = """
+[deps]
+"""
+
+# ╔═╡ 00000000-0000-0000-0000-000000000002
+PLUTO_MANIFEST_TOML_CONTENTS = """
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.7.3"
+manifest_format = "2.0"
+
+[deps]
 """
 
 # ╔═╡ Cell order:
 # ╟─e9af4550-b632-11eb-1d0d-e11b45468706
 # ╟─4fb54a13-3db2-4475-bd49-fd0f9d5cefa4
 # ╟─64cb0563-2802-459e-8b14-2430546554ab
+# ╟─00000000-0000-0000-0000-000000000001
+# ╟─00000000-0000-0000-0000-000000000002
