@@ -9,11 +9,9 @@ html"<button onclick=present()> Presente </button>"
 
 # ╔═╡ a23a3914-e8f3-42ec-a176-76b6821733a8
 md"""
-# IGEM01088 - MECÂNICA DOS SÓLIDOS I - Turma: 2020 (2021.2)
+# EMCAN01088 - MECÂNICA DOS SÓLIDOS I - Turma: 2020 (2021.2)
 
-## Plano da Disciplina
-
-### Ementa da Disciplina:
+## Ementa da Disciplina:
 
 1. Estática dos pontos materiais.
 3. Equilíbrio de corpos rígidos.
@@ -26,7 +24,11 @@ md"""
 10. Inércia.
 11. Dinâmica de corpos rígidos.
 
-### Resultados de aprendizagem esperados
+"""
+
+# ╔═╡ 16f35100-799d-419a-a780-32c0e4bcb2e2
+md"""
+## Resultados de aprendizagem esperados
 
 - 🥇 Identificar as teorias e equações que fundamentam a mecânica dos sólidos.
 
@@ -38,15 +40,12 @@ md"""
 
 ### Estratégia
 
-Com base no livro de ELMÔR FILHO, Gabriel et al. $(html"<a href='https://g.co/kgs/z62mSU' target='_blank'>Uma nova sala de aula é possível: aprendizagem ativa na educação em engenharia.</a>") Rio de Janeiro: LTC, 2019.
-
-Será aplicada a **Sala de aula invertida** com utilização da Estratégia e a aprendizagem ativa.
+Estratégia _Co-op co-op_ que é uma estratégia cooperativa de aprendizagem ativa.
 
 🧑‍🎓 Os estudantes executam atividades para:
 
  - investigar um tópico ou 
- - resolver um problema, e 
- - produzir um produto e
+ - resolver problemas propostos e 
  - compartilham com toda a classe.
 
 👨‍🔬 Mediação do professor em todas as etapas de desenvolvimento da estratégia.
@@ -54,33 +53,31 @@ Será aplicada a **Sala de aula invertida** com utilização da Estratégia e a 
 
 # ╔═╡ 26d3ea71-ee35-47b4-b331-825ec7726002
 md"""
-### Roteiro
+## Roteiro
 
-🕐 1. Indicação do tema da atividade a ser executada por cada grupo *(até DD/MM/AAAA)*,
+🕐 1. Indicação do capítulo do livro como tema e problemas propostos a serem resoluvidos por cada grupo *(até DD/MM/AAAA)*,
  
 - _Tema_;
+- _Exercícios_;
 
-🕑 2. Ler os subitens e o material indicado nos links. Postar no Classroom resumo de até uma página do que estudou *(até DD/MM/AAAA)*;
+🕑 2. Ler os subitens indicados, seus subsubitens e o material indicado nos links. Postar no Classroom resumo de até uma página do que estudou *(até DD/MM/AAAA)*;
 
-🕔 3. Seleção dos subtemas com justificativa para o que será aprendendido e experienciado pelo grupo durante a unidade, cada estudante elabora os estudos dos subtemas (modelos, algoritmos, códigos, simulações, exemplos e análises) *(até DD/MM/AAAA)*;
+🕔 3. Seleção os que serão resolvidos com justificativa para o que será aprendendido e experienciado durante a unidade e cada estudante a solução de um exercício (modelos, algoritmos, códigos, simulações e análises, etc) *(até DD/MM/AAAA)*;
 
-🕙 4. Apresentações (individuais e do grupo) *(até DD/MM/AAAA)*;
+🕙 4. Apresentações dos exercícios resolvidos *(até DD/MM/AAAA)*;
 
-🕑 5. Avaliações (Via google forms) *(até DD/MM/AAAA)* e
+🕑 5. Avaliações pelo professor *(até DD/MM/AAAA)* e
 
-🕒 6. Feedback *(até DD/MM/AAAA)*.
+🕒 6. Feedback (sala) *(até DD/MM/AAAA)*.
 """
 
 # ╔═╡ be4fb5b9-3121-43a0-bfb8-45188637216e
 md"""
-### Recursos e Materiais Didáticos
+## Recursos e Materiais Didáticos
 
 1. Google Classroom;
-2. Google Meet para encontros;
-3. Jamboard como quadro branco;
-4. Google Forms para formulários e avaliações;
-5. Google Drive para arquivos (Docs, Slides, Planilhas, Desenhos);
-6. Os recurso $(html"<a href='https://code.visualstudio.com/' target='_blank'>Vscode</a>") e $(html"<a href='https://julialang.org/' target='_blank'>Linguagem Julia</a>") e $(html"<a href='https://github.com/fonsp/Pluto.jl' target='_blank'>Pluto.jl</a>") para Cálculos.
+2. Quadro e Laboratório APSE;
+3. Os recurso $(html"<a href='https://code.visualstudio.com/' target='_blank'>Vscode</a>") e $(html"<a href='https://julialang.org/' target='_blank'>Linguagem Julia</a>") e $(html"<a href='https://github.com/fonsp/Pluto.jl' target='_blank'>Pluto.jl</a>") para Cálculos.
 """
 
 # ╔═╡ a602d726-3bdd-4d60-88a6-a2c2d2438c94
@@ -108,61 +105,56 @@ md"""
 
 Avaliação será:
 
-- Contínua 
-- Individual 
-- Por Unidade a ser desenvolvida
+1. _**Avaliação das atividades desenvolvidas (Peso 6)**_
 
-### Regras:
+- Contínua, individual, Por unidade a ser desenvolvida
 
-- As avaliações serão feitas via $(html"<a href='https://forms.gle/ZSELRjj28PzqRU9V6' target='_blank'>Formulário Eletrônico no Google Forms (Acesse aqui)</a>"), com excessão do Resumo pré que deve ser entregue via Classroom.
-- No caso de duplicidade de avaliação será considerada sempre a última avaliação enviada.
-- Serão consideradas apenas as avaliações realizadas no período estipulado, ou até quando estiverem disponíveis no formulário.
-- Cada avaliação receberá uma pontuação de 0 a 100.
-- A nota para o conceito final será a média das notas das atividades propostas.
+2. _**Provas (Peso 4)**_
+
+- Duas provas
+- A nota para o conceito final será a média poderada das notas obtidas 1 (_Avaliação das atividades desenvolvidas (Peso 6)_) e 2 (_Provas (Peso4)_).
+
 """
 
 # ╔═╡ f92f9d30-b368-11eb-2e66-a7bbf5a4a943
 md"""
 
-### Composição das Notas
+## Composição das Notas
 
 A seguir são enumeradas os itens que serão avaliados.
 
-Para cada Unidade serão avaliados:
+Para cada Unidade serão avaliados pelo professor:
 
-1. Apresentações (peso 1).
-2. Contribuições individuais (peso 1).
+1. Resumo pré (peso 1)
+1. Apresentações (peso 2).
 3. Relatório (peso 1).
 
-#### 1. Apresentações (peso 1)
+"""
 
-Avalições que serão consideradas neste item: 
+# ╔═╡ 00000000-0000-0000-0000-000000000001
+PLUTO_PROJECT_TOML_CONTENTS = """
+[deps]
+"""
 
-- Avaliação por pares (peso 1)
-- Avaliação do professor (peso 1)
+# ╔═╡ 00000000-0000-0000-0000-000000000002
+PLUTO_MANIFEST_TOML_CONTENTS = """
+# This file is machine-generated - editing it directly is not advised
 
-#### 2. Contribuições individuais (peso 1)
+julia_version = "1.7.3"
+manifest_format = "2.0"
 
-Avaliações que serão consideradas: 
-
-- Avaliação do resumo pré (peso 1)
-- Avaliação por pares (peso 1)
-- Avaliação do professor (peso 1)
-
-#### 3. Relatório da Unidade (peso 1).
-
-- Autoavaliação (peso 1)
-- Avaliação por pares (peso 1)
-- Avaliação do professor (peso 1)
-
+[deps]
 """
 
 # ╔═╡ Cell order:
 # ╟─e6e24892-e2b7-472f-9a5c-7d1cbe34eeb6
 # ╟─a23a3914-e8f3-42ec-a176-76b6821733a8
+# ╟─16f35100-799d-419a-a780-32c0e4bcb2e2
 # ╟─e72a7552-d117-4306-99c7-a3e7218adfaa
 # ╟─26d3ea71-ee35-47b4-b331-825ec7726002
 # ╟─be4fb5b9-3121-43a0-bfb8-45188637216e
 # ╟─a602d726-3bdd-4d60-88a6-a2c2d2438c94
 # ╟─cd0d2e88-384f-472c-8d43-0813e0394695
 # ╟─f92f9d30-b368-11eb-2e66-a7bbf5a4a943
+# ╟─00000000-0000-0000-0000-000000000001
+# ╟─00000000-0000-0000-0000-000000000002
